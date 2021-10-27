@@ -3,7 +3,7 @@
 
 Basic Data Structures program in C language. 
 
-Includes Programs for:-
+**Includes Programs for:-**
 
 1] Array
  
